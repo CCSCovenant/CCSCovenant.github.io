@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently graduate from the [Lassonde School of Engineering](https://lassonde.yorku.ca/)[York University](https://www.yorku.ca/) with Frist Class Honours Bachelor's degrees in computer science.(GPA:7.93/9 )
+I am graduated from the [Lassonde School of Engineering](https://lassonde.yorku.ca/) at [York University](https://www.yorku.ca/) with Frist Class Honours Bachelor's degrees in computer science.(GPA:7.93/9 ). I am looking for Fall 2024 income Mphil/Phd position.
 
 My research interest including computer vision, computer graphics, machine learning and distributed systems.
 
@@ -25,25 +25,24 @@ Summer 2020 York University Internation Scholarship of Merit
 Research Experencie
 ======
 
-## Compuer Vision Engineer  
-### QUANZHOU HUST research institue of Intelligence manufacturing  
-#### November 2023 - present  
+### Compuer Vision Engineer  
+#### QUANZHOU HUST research institue of Intelligence manufacturing  
+##### November 2023 - present  
 
 Working with various of computer vision projects in the industry manufacturing:  
-ongoing research project:  correct fabric misalignment and distortion on a production line during the  
-process of gluing fabric to shoe soles with camera.  
+ongoing research project:  correct fabric misalignment and distortion on a production line during the process of gluing fabric to shoe soles with camera.  
   
-## Estimation of the 3D Rim of an Object from its 2D occluding contours  
-### Elder lab, York University, Toronto  
-#### May 2023 - August 2023  
+### Estimation of the 3D Rim of an Object from its 2D occluding contours  
+#### Elder lab, York University, Toronto  
+##### May 2023 - August 2023  
 
 I am very fortunate to be advised by Prof James.H.Elder in this project as part of Lassonde Undergradute Research Award. project details and report can be find [here](https://3d-rim.readthedocs.io/en/latest/).
 
 long in short, this research aims to explore how common object regularities and projection rules might facilitate statistical shape estimations from occluding contours, even in the absence of strict quantitative links
 
-## Work/study position: SARIT Project  
-### Elder lab, York University, Toronto  
-#### May 2022 - April 2023  
+### Work/study position: SARIT Project  
+#### Elder lab, York University, Toronto  
+##### May 2022 - April 2023  
 
 This project aimed to deploy a low-cost, vision-based pedestrian detection system on SARIT
 electric vehicles. I validated the performance of various low-cost cameras integrated with
