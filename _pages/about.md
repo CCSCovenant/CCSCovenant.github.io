@@ -12,7 +12,7 @@ I am graduated from the [Lassonde School of Engineering](https://lassonde.yorku.
 
 My research interest including computer vision, computer graphics, machine learning and distributed systems.
 
-you can find my transcript here: [Kuimou's trascript](../assets/Transcript-June-11.pdf)  
+you can find my transcript here: [Kuimou's transcript](../assets/Transcript-June-11.pdf)  
 
 Honors and Awards
 ======
