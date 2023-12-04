@@ -12,38 +12,39 @@ I'm currently graduate from the [Lassonde School of Engineering](https://lassond
 
 My research interest including computer vision, computer graphics, machine learning and distributed systems.
 
-you can find my CV here: [Kuimou's Curriculum Vitae](../assets/CV.pdf)
-you can find my transcript here: [Kuimou's trascript](../assets/transcript.pdf)
+you can find my CV here: [Kuimou's Curriculum Vitae](../assets/CV.pdf)  
+you can find my transcript here: [Kuimou's trascript](../assets/transcript.pdf)  
 
 Honors and Awards
 ======
-2023 Lassonde Undergraduate Research Award
-Fall/Winter 2020 York University Internation Scholarship of Merit
-Fall/Winter 2020 York University Continuing Student Scholarship
-Summer 2020 York University Internation Scholarship of Merit
-15th place in 2022-2023 ICPC East Central North American Regional Contest
+2023 Lassonde Undergraduate Research Award  
+Fall/Winter 2020 York University Internation Scholarship of Merit  
+Fall/Winter 2020 York University Continuing Student Scholarship  
+Summer 2020 York University Internation Scholarship of Merit  
+15th place in 2022-2023 ICPC East Central North American Regional Contest  
 
 Research Experencie
 ======
 
-Compuer Vision Engineer
-QUANZHOU HUST research institue of Intelligence manufacturing
-November 2023 - present
+## Compuer Vision Engineer  
+### QUANZHOU HUST research institue of Intelligence manufacturing  
+#### November 2023 - present  
 
-Working with various of computer vision projects in the industry manufacturing:
-ongoing research project:  correct fabric misalignment and distortion on a production line during the process of gluing fabric to shoe soles with camera.
+Working with various of computer vision projects in the industry manufacturing:  
+ongoing research project:  correct fabric misalignment and distortion on a production line during the  
+process of gluing fabric to shoe soles with camera.  
   
-Estimation of the 3D Rim of an Object from its 2D occluding contours
-Elder lab, York University, Toronto
-May 2023 - August 2023
+## Estimation of the 3D Rim of an Object from its 2D occluding contours  
+### Elder lab, York University, Toronto  
+#### May 2023 - August 2023  
 
 I am very fortunate to be advised by Prof James.H.Elder in this project as part of Lassonde Undergradute Research Award. project details and report can be find [here](https://3d-rim.readthedocs.io/en/latest/).
 
 long in short, this research aims to explore how common object regularities and projection rules might facilitate statistical shape estimations from occluding contours, even in the absence of strict quantitative links
 
-Work/study position: SARIT Project
-Elder lab, York University, Toronto
-May 2022 - April 2023
+## Work/study position: SARIT Project  
+### Elder lab, York University, Toronto  
+#### May 2022 - April 2023  
 
 This project aimed to deploy a low-cost, vision-based pedestrian detection system on SARIT
 electric vehicles. I validated the performance of various low-cost cameras integrated with
