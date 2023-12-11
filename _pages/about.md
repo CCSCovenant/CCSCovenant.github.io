@@ -24,10 +24,10 @@ Summer 2020 York University Internation Scholarship of Merit
 
 core courses
 =====
-EECS 4422 Computer vision A+
-EECS 4404 Machine Learning and Pattern Recognition A
-EECS 4101 Advance Data Structures A+
-EECS 6117 Distributed Computing A+ (Graduated level Course)
+EECS 4422 Computer vision A+  
+EECS 4404 Machine Learning and Pattern Recognition A  
+EECS 4101 Advance Data Structures A+  
+EECS 6117 Distributed Computing A+ (Graduated level Course)  
 
 Research Experencie
 ======
