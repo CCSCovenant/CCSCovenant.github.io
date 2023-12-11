@@ -22,6 +22,13 @@ Fall/Winter 2020 York University Continuing Student Scholarship
 Summer 2020 York University Internation Scholarship of Merit  
 15th place in 2022-2023 ICPC East Central North American Regional Contest  
 
+core courses
+=====
+EECS 4422 Computer vision A+
+EECS 4404 Machine Learning and Pattern Recognition A
+EECS 4101 Advance Data Structures A+
+EECS 6117 Distributed Computing A+ (Graduated level Course)
+
 Research Experencie
 ======
 
@@ -32,7 +39,7 @@ Research Experencie
 Working with various of computer vision projects in the industry manufacturing:  
 ongoing research project:  correct fabric misalignment and distortion on a production line during the process of gluing fabric to shoe soles with camera.  
   
-### Estimation of the 3D Rim of an Object from its 2D occluding contours  
+### LURA project:Estimation of the 3D Rim of an Object from its 2D occluding contours  
 #### Elder lab, York University, Toronto  
 ##### May 2023 - August 2023  
 
