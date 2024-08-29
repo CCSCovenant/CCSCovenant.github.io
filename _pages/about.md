@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am graduated from the [Lassonde School of Engineering](https://lassonde.yorku.ca/) at [York University](https://www.yorku.ca/) with Frist Class Honours Bachelor's degrees in computer science.(GPA:7.93/9 ). I will be enrolling as an MPhil student at The Hong Kong University of Science and Technology (Guangzhou) in Fall 2024. I am looking for potential supervisor and interesting projects.
+I graduated from the [Lassonde School of Engineering](https://lassonde.yorku.ca/) at [York University](https://www.yorku.ca/) with First Class Honours Bachelor's degrees in computer science.(GPA:7.93/9 ). I have be enrolled as an MPhil student at The Hong Kong University of Science and Technology (Guangzhou) in Fall 2024. I am looking for potential supervisor and interesting projects.
 
 My research interest including computer vision, computer graphics, machine learning and distributed systems. 
 
