@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from the [Lassonde School of Engineering](https://lassonde.yorku.ca/) at [York University](https://www.yorku.ca/) with First Class Honours Bachelor's degrees in computer science.(GPA:7.93/9 ).  I enrolled as an MPhil student at The Hong Kong University of Science and Technology (Guangzhou) in Fall 2024. I am looking for a potential supervisor and interesting projects.
+I graduated from the [Lassonde School of Engineering](https://lassonde.yorku.ca/) at [York University](https://www.yorku.ca/) with First Class Honours Bachelor's degrees in computer science.(GPA:7.93/9 ).  I enrolled as an MPhil student at The Hong Kong University of Science and Technology (Guangzhou) in Fall 2024. 
+
+Current I am interested in create LLM-based game agent.
 
 My research interests include computer vision, computer graphics, machine learning, and distributed systems.
 
@@ -37,7 +39,7 @@ Research Experencie
 
 ### Compuer Vision Engineer  
 #### QUANZHOU HUST research institue of Intelligence manufacturing  
-##### November 2023 - present  
+##### November 2023 - January 2024  
 
 Working with various of computer vision projects in the industry manufacturing:  
 ongoing research project:  correct fabric misalignment and distortion on a production line during the process of gluing fabric to shoe soles with camera.  
